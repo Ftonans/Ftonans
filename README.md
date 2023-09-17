@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Please don't upload to GitHub](https://nogithub.codeberg.page/badge.svg)](https://nogithub.codeberg.page)
 
 <!--
 **Ftonans/Ftonans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
